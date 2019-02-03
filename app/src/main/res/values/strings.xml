@@ -1,0 +1,501 @@
+<resources>
+    <!-- License -->
+    <string name="history_photo">History photo</string>
+
+    <string name="app_name">BulgariaTour</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="nav_header_title">Bulgaria Tour</string>
+    <string name="title_activity_places_list">Places</string>
+    <string name="title_activity_detail">Detail</string>
+
+    <string name="nav_header_subtitle">http://www.bulgariatravel.org/bg</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_image">title image</string>
+
+    <string name="dummy_content">Dummy content</string>
+    <string name="detail_image">detail_image</string>
+
+    <!-- Mountain BURGAS -->
+    <string name="bourgas">Bourgas</string>
+    <string name="island_anastasia">Island world Anastasia</string>
+    <string name="island_anastasia_detail">St. Anastasia Island, formerly called Bolshevik Island,
+        is a Bulgarian islet in the Black Sea.\n It is located 1.5 km off the coast near Chernomorets,
+        at 12 metres above sea level, and covers a territory of one hectare.\t It is the only
+        inhabited island off the Bulgarian Black Sea Coast.The island is supplied with electricity
+        and drinking water. It is named after the former St. Anastasia convent located on it.\t
+        The convent had existed since the Middle Ages and was reconstructed during the 18th-19th
+        century. It has been abandoned since 1923, when the island was transformed into a prison.
+        Today, in addition to the monastery with its church, there is a lighthouse situated on the
+        island, as well as a museum, a restaurant, a small quay, a conference hall and two
+        guesthouses with a total of five rooms available to tourists. In the summer, the island is
+        accessible from Burgas via boat services running back and forth multiple times a day.\n
+        Released under CC-BY-SA</string>
+
+    <string name="burgas_port_detail">Port of Burgas is the Bulgarian port. It is well-established
+        as the Trans-European Ten-T Trans-European Transport Network. Situated in the bay of the
+        same name in the westernmost part of the Black Sea coast of Burgas, the port has a total
+        of 19 ship sites with a maximum allowable water catchment of 12.3 m.  Port Bourgas is part
+        of the Bourgas Port District, which covers the area from Cape Emin to Rezovska River and
+        includes a total of 8 (state and private) port operators: Port Bourgas, Port Rosenets-Lukoil
+        Neftochim, BMF Port Bourgas, Dockyard Port Bourgas, Fishport, , Liberty Port, Nesebar
+        terminal.\n Released under CC-BY-SA</string>
+
+    <string name="sea_beach">Sea beach</string>
+    <string name="sea_beach_detail">The beach of Kraimorie attracts many tourists mostly because of
+        its sand - mild, golden and without stones. The beach itself is long but narrow. The water
+        is shallow and the seabed is sloping and without drastic changes in depth. Part of the beach
+        is guarded by lounges and umbrellas. Kraimorie Beach is quiet and there are campsites,
+        restaurants, shops, bars and family hotels in the vicinity, and free parking is provided for
+        the convenience of the beachmen.\n Released under CC-BY-SA</string>
+
+    <string name="night_city">Night_city</string>
+    <string name="night_city_detail">Nightlife is most interesting part, here can be found original
+        places, symbols of the nightlife. Bourgas, is one of the cities in Bulgaria with the
+        strongest nightlife. Although it is a summer tourist destination for the sea, here you will
+        find quality entertainment throughout the year. If you are from Burgas - comment on the
+        selection and keep us informed about the changes in your preferences. Night life is not a
+        good life, but it\'s my life.\n Released under CC-BY-SA</string>
+
+    <string name="light_house">Beach Light House</string>
+    <string name="old_fasion_trail_detail">Burgas Central railway station (Tsentralna zhelezopatna
+        gara Burgas) is the main station serving the Black Sea city and municipality of Burgas, the
+        fourth most populous city, and the largest and most important port, in Bulgaria.Opened in
+        1903,[1] the station is the terminus of the line from Karnobat, which links Burgas with the
+        rest of Bulgaria rail network. \n Released under CC-BY-SA</string>
+    <string name="sunrise_in_burgas">Sunrise in Burgas</string>
+    <string name="old_fasion_trail">Old fashion trail</string>
+
+    <!-- Mountain RILA -->
+    <string name="rila">Rila</string>
+    <string name="mountain_rila">Mountain Rila</string>
+    <string name="rila_lakes">The Seven Rila Lakes (Bulgarian: Седемте рилски езера, transliterated:
+        Sedemte rilski ezera) are a group of glacial lakes, situated in the northwestern Rila
+        Mountains in Bulgaria. They are the most visited group of lakes in Bulgaria. The lakes are
+        situated between 2,100 and 2,500 metres elevation above sea level.  Each lake carries a name
+        associated with its most characteristic feature. The highest one is called Salzata
+        (\"The Tear\") due to its clear waters that allow visibility in depth. The next one in
+        height carries the name Okoto (\"The Eye\") after its almost perfectly oval form. Okoto is
+        the deepest cirque lake in Bulgaria, with a depth of 37.5 m. Babreka (\"The Kidney\") is the
+        lake with the steepest shores of the entire group. Bliznaka (\"The Twin\") is the largest
+        one by area. Trilistnika (\"The Trefoil\") has an irregular shape and low shores. The
+        shallowest lake is Ribnoto Ezero (\"The Fish Lake\") and the lowest one is Dolnoto Ezero
+        (\"The Lower Lake\"), where the waters that flow out of the other lakes are gathered to form
+        the Dzherman River.  The Seven Lakes are a tourist attraction in Bulgaria because of its
+        natural environment. The lakes are located one above the other and are connected by small
+        streams, which form tiny waterfalls and cascades. Tourist accommodation in the lakes\'
+        vicinity include a chalet on the northeastern shore of The Fish Lake, at an elevation of
+        2,196 m.[citation needed] The most common time to visit the lakes is summer, in July and
+        August, when temperature is above 10 degrees Celsius and the risk of sudden storms is lower.
+        [citation needed] During the rest of the year the weather can be severe.[citation needed]
+        The lakes usually freeze during October, and do not melt before June. The ice cover can
+        reach up to 2 meters.\n Released under CC-BY-SA</string>
+
+    <string name="seven_rila_lakes">Seven Rila Lakes</string>
+    <string name="rila_mountain">Rila (Bulgarian: Рила, pronounced [ˈriɫɐ]) is a mountain range in
+        southwestern Bulgaria and the highest mountain range of Bulgaria and the Balkans, with its
+        highest peak being Musala at 2,925 m. The massif is also the sixth highest mountain in
+        Europe (when each mountain is represented by its highest peak only), coming after the
+        Caucasus, the Alps, Sierra Nevada, the Pyrenees and Mount Etna, and the highest between the
+        Alps and the Caucasus. More than one-third of the mountain is occupied by the Rila National
+        Park, the rest lies within the Rila Monastery Nature Park.  The mountain is believed to have
+        been named after the river of the same name, which comes from the Old Bulgarian verb \"рыти\"
+        meaning \"to grub\".[1][2]  Rila is abundant in glacial lakes (about 200) and hot springs in
+        fault areas at the base of the mountain. Some of the Balkans\' longest and deepest rivers
+        originate from Rila, including Maritsa, Iskar and Mesta.  Culturally, Rila is famous for the
+        Rila Monastery, Bulgaria\'s largest and most important monastery, founded in the 10th
+        century by Saint John of Rila. Alongside the cultural landmarks the mountain is also famous
+        for the Seven Rila Lakes.\n Released under CC-BY-SA</string>
+
+    <string name="malyovitsa_rila">Malyovitsa  mountain</string>
+    <string name="rila_malyovitsa">Malyovitsa is a peak and ski resort in the northwestern part of
+        the Rila Mountains in southwestern Bulgaria. It is 2,729 m high and is one of the most
+        popular tourist regions in the mountain. The Rila Monastery is situated at its southern foot,
+        and Malyovitsa Ski Centre with two downhill tracks and two ski drags is to the north. The
+        main starting point for treks in the region is Malyovitsa Hut (at about 2 hours walk from
+        the top of the summit).  The Malyovitsa region is the cradle of Bulgarian rock climbing and
+        mountaineering. The first organized expeditions were made in 1921–22 by tourists from the
+        town of Samokov. The imposant north wall of the summit was first climbed in 1938 by
+        Konstantin Savadzhiev and Georgi Stoimenov (about 200 m). That was the greatest success of
+        Bulgarian climbers for its time and is deemed as the date of birth of Bulgarian
+        mountaineering. Later other walls in the region were climbed too with the most difficult
+        routes being made in the 1970s. In the last 15 years, Malyovitsa region has become very
+        attractive rock climbing district with the possibilities it gives for mountaineering and
+        sport rock climbing.  Other interesting walls and summits are: Zliya Zab (200 m wall with
+        one of the most famous climbing routes in the country, Vezhdite), Dvuglav (a 450 m high wall,
+        with climbing routes often over 500 m long), Iglata, Dyavolski Igli (several aretes with the
+        hardest climbs in the region), Ushite and others. A wall that is available for not so
+        experienced rock climbers is Kuklata. It is situated across Malyovitsa hut, 10 minutes
+        walking, and the main part of its tours is bolted.\n Released under CC-BY-SA</string>
+
+    <string name="monastery_rila">Rila Monastery</string>
+    <string name="rila_monanstery">The Monastery of Saint Ivan of Rila, better known as the Rila
+        Monastery (Bulgarian: Рилски манастир, Rilski manastir) is the largest and most famous
+        Eastern Orthodox monastery in Bulgaria. It is situated in the southwestern Rila Mountains,
+        117 km (73 mi) south of the capital Sofia in the deep valley of the Rilska River at an
+        elevation of 1,147 m (3,763 ft) above sea level, inside of Rila Monastery Nature Park. The
+        monastery is named after its founder, the hermit Ivan of Rila (876 – 946 AD), and houses
+        around 60 monks.  Founded in the 10th century, the Rila Monastery is regarded as one of
+        Bulgaria\'s most important cultural, historical and architectural monuments and is a key
+        tourist attraction for both Bulgaria and Southern Europe. In 2008 alone, it attracted
+        900,000 visitors.[1] The monastery is depicted on the reverse of the 1 lev banknote, issued
+        in 1999.\n Released under CC-BY-SA</string>
+
+    <string name="panicata_lake">Panicata Lake</string>
+    <string name="rila_panicata_lake">The Urdini lakes are a lake group with glacial origin in the
+        Rila Mountains. They are not developed as a tourist attraction as well as the Seven Rila
+        Lakes because they are situated in the most difficult parts of the Northwest Rila. Urdina
+        lakes are located in the western part of the Urdina cirque between Mount Dumbha (2670 m) to
+        the northwest and Dodov peak (2661 m) to the south. They are six in number and have the
+        following names: Dry, Fish (not to be confused with the Lake of the Seven Lakes), Triangle,
+        Botanical, Big Panite and Little Panic. Urdina River, which is the right tributary of the
+        Cherni Iskar River, runs out of Urdina lakes.  The lakes have a relatively small area - from
+        0.8 to 2.5 hectares. At least in area is the Fish Lake (at 2348 m above sea level), which
+        due to its proximity to the peak of Damga (about 500 m southeast of the peak) is also called
+        Damsko Lake. Although the Fish Lake is the smallest in size, it has the largest catchment
+        pool in the group. The lowest lake, Big Panitza (42 ° 10\'39 \"N 23 ° 19\'45\" E), is also
+        the largest area and volume of water in it. It is situated at 2278 m above sea level, has
+        an area of ​​about 2.5 hectares and a water volume of approximately 89,500 m 3.  The shores
+        of the individual Urdini lakes are varied. The highest lake of the Suhoto group (42 ° 10\'28
+        \"N 23 ° 19\'44\" E) is located not far from Dodov peak and is 2375 m above sea level. The
+        lake has a circular shape and is about 5 m deep. The deepest (7.6 m) is the fourth small
+        lake (2336 m) and is located east of the Ribnoto. The water flowing out of it forms a small
+        waterfall before it flows into the Great Plain Lake and then into the Urdina River.  In 1985,
+        Urdini Lakes were declared a natural landmark of national and international importance. The
+        lakes are loaded with rainbow and Balkan trout, making them an attractive place for poachers.
+        Fishing is forbidden.\n Released under CC-BY-SA</string>
+
+
+    <!-- Mountain PIRIN -->
+    <string name="pirin">Pirin</string>
+    <string name="mountain_pirin">Pirin Mountain</string>
+    <string name="pirin_mountain">The Pirin Mountains (Bulgarian: Пирин) are a mountain range in
+        southwestern Bulgaria, with Vihren at an altitude of 2,914 m being the highest peak. One
+        hypothessis is the mountain was named after Perun, the highest god of the Slavic pantheon
+        and the god of thunder and lightning. Another version is that the etymology of the range
+        derives from the Thracian word Perinthos, meaning \"Rocky Mountain\".  The range extends
+        about 80 km from the north-west to the south-east and is about 40 km wide, spanning a
+        territory of 2,585 km2 (998 sq mi). To the north Pirin is separated from Bulgaria\'s highest
+        mountain range, the Rila Mountains, by the Predel saddle, while to the south it reaches the
+        Slavyanka Mountains. To the west is located the valley of the river Struma and to the east
+        the valley of the river Mesta separates it from the Rhodope Mountains. Pirin is dotted with
+        more than a hundred glacial lakes and is also the home of Europe\'s southernmost glaciers,
+        Snezhnika and Banski Suhodol.  The northern part of the range, which is also the highest one,
+        is protected by the Pirin National Park, declared a UNESCO World Heritage Site in 1983.
+        Pirin is noted for its rich flora and fauna, as well as for the presence of a number of
+        relict species. Much of the area is forested, with some of the best preserved conifer woods
+        in Bulgaria, holding important populations of the Balkan endemic species Macedonian pine,
+        Bosnian pine and Bulgarian fir. Animals include many species of high conservation value,
+        such as brown bear, gray wolf, wildcat, European pine marten, wild boar, red deer, roe deer,
+        chamois, etc.  The combination of favourable natural conditions and varied historical
+        heritage contribute makes Pirin an important tourist destination. The town of Bansko,
+        situated on the north-eastern slopes of the mountain, has grown to be the primary ski and
+        winter sports centre in the Balkans. A number of settlements at the foothills of Pirin have
+        mineral spring and are spa resorts — Banya, Dobrinishte, Gotse Delchev, Sandanski, etc.
+        Melnik at the south-western foothills of the mountain is Bulgaria\'s smallest town and is an
+        architectural reserve. Within a few kilometres from the town are the Melnik Earth Pyramids
+        and the Rozhen Monastery.\n Released under CC-BY-SA</string>
+
+    <string name="valyavishki_lakes_pirin">Valyavishki Lakes</string>
+    <string name="pirin_valyavishki_lakes">The Valyavishki Lakes (Bulgarian: Валявишки езера) is a
+        group of lakes in the northern parts Pirin, southwestern Bulgaria and includes 10 lakes.
+        They are amphitheatrically situated in the cirque of the same name. The lakes are glacial
+        and lie on a granite bed. They are located between 2,300 and 2,475 m. Their shores are steep
+        and rocky. Pine-scrub grows around the lakes due to the high altitude.  Trout is abundant in
+        the waters. There have been attempts to introduce the Brook trout into the lakes. The higher
+        lakes drain into the lower ones due to their step-like situation. The group is the source of
+        the Valyavitsa river which is a main tributary to the Demyanitsa river.  The largest lake by
+        area is the Big lake which is located at an altitude of 2379 m. It is 18 meters deep. The
+        big lake is 270 m wide and 480 m long with an area of 81,5 decares. The lake is situated in
+        the vicinity of the Valyavishki Chukar peak.  The Valyavishki lakes are among the main
+        tourist attractions in the area. The closest hut is the Demyanitsa refuge at 2 hour from the
+        lakes.\n Released under CC-BY-SA</string>
+
+    <string name="samodivski_lakes_pirin">Samodivski Lakes</string>
+    <string name="pirin_samodivski_lakes">The Samodivski Lakes (Bulgarian: Самодивски езера) is a
+        small group of lakes in Pirin, southwestern Bulgaria, part of the larger group of Popovski
+        lakes. They are situated very close to each other in a small cirque to the south west of the
+        Popovo Lake between the peak Dzhengal, Momin Dvor and Kralev Dvor. They are situated at an
+        altitude of 2,373 m, 2,375 m, 2,372 m. The highest has a shape of a boat with size of 75x85
+        m and surface of 3,20 decares; the second one resembles a kidney and is longer (100x35 m)
+        with area of 2,20 decares; the lowest is also the smallest one with size of 50x20 m and
+        surface of only 1 decare. The Samodivski lakes are considered as one of the most beautiful
+        in Pirin and with good reason: they are nestled among high rocks, a small stream curves
+        between them which even forms a tiny waterfall between the higher lakes. They names derives
+        from the folklore beliefs that the wood nymphs gather around at night. According to the
+        legend, the area was home of the daughter of the Slavic god Perun. The track between the
+        Bezbog refuge and the Tevno Lake passes nearby. There are suitable places for camping.\n
+        Released under CC-BY-SA</string>
+
+    <string name="vihren_pirin">Vihren</string>
+    <string name="pirin_vihren">Vihren (Bulgarian: Вихрен) is the highest peak of Bulgaria\'s Pirin
+        Mountains. Reaching 2,914 metres (9,560 ft), it is Bulgaria\'s second and the Balkans\'
+        third highest, after Musala and Mount Olympus.[2] Although due to the karst topography
+        Vihren is deprived of lakes and streams, a number of Pirin\'s lakes are located around the
+        peak, as is Europe\'s southernmost glacial mass, the Snezhnika glacielet.[3] Until 1942
+        Vihren was known as Eltepe (peak of storms); it was also called Buren (stormy) and
+        Malnienosets (lightning-bringer).[4] The UNESCO World Heritage Site Pirin National Park was
+        originally known as the Vihren National Park.[5] Vihren is included in the 100 Tourist Sites
+        of Bulgaria under № 2.\n Released under CC-BY-SA</string>
+    <string name="melnik_earth_pyramids_pirin">Melnik Earth Pyramids</string>
+    <string name="pirin_melnik_earth_pyramids">The Melnik Earth Pyramids are rock formations, known
+        as hoodoos, situated at the foothills of the Pirin mountain range in south-western Bulgaria.
+        They span an area of 17 km2 near the town of Melnik, Blagoevgrad Province. Reaching a height
+        of up to 100 m these sandstone pyramids are shaped in forms, resembling giant mushrooms,
+        ancient towers and obelisks. They were formed primarily due to erosion from rainfall and
+        bedrock wear. The Melnik Earth Pyramids are a geological phenomenon of global importance
+        and were declared a natural landmark in 1960.[1] The rock formations are home to rich flora
+        and fauna heavily influenced by the Mediterranian climate. They are popular tourist
+        destination not only because of the natural beauty but also due to the cultural sights of
+        Melnik and the Rozhen Monastery.\n Released under CC-BY-SA</string>
+
+    <!-- SOFIA -->
+    <string name="sofia">Sofia</string>
+    <string name="alexander_nevsky_cathedral_sofia">Alexander Nevsky Cathedral</string>
+    <string name="sofia_alexander_nevsky_cathedral">The St. Alexander Nevsky Cathedral (Bulgarian:
+        Храм-паметник \"Свети Александър Невски\", Hram-pametnik \"Sveti Aleksandar Nevski\") is a
+        Bulgarian Orthodox cathedral in Sofia, the capital of Bulgaria. Built in Neo-Byzantine style,
+        it serves as the cathedral church of the Patriarch of Bulgaria and it is one of the largest
+        Eastern Orthodox cathedrals in the world, as well as one of Sofia\'s symbols and primary
+        tourist attractions.[1][2] The St. Alexander Nevsky Cathedral in Sofia occupies an area of
+        3,170 square metres (34,100 sq ft) and can hold 10,000 people inside.[1][3] It is the second
+        -largest cathedral located on the Balkan Peninsula, after the Church of Saint Sava in
+        Belgrade.\n Released under CC-BY-SA</string>
+    <string name="monument_unknown_soldier_sofia">Monument to the Unknown Soldier</string>
+    <string name="sofia_monument_unknown_soldier">The Monument to the Unknown Soldier (Bulgarian:
+        Паметник на Незнайния воин, Pametnik na Neznayniya voin) is a monument in the centre of
+        Sofia, the capital of Bulgaria, located just next to the 6th-century Church of St Sophia,
+        on 2 Paris Street. The monument commemorates the hundreds of thousands of Bulgarian soldiers
+        who died in wars defending their homeland. Ceremonies involving the President of Bulgaria
+        and foreign state leaders are often performed here.[1][2]  The monument was designed by
+        architect Nikola Nikolov and opened on September 22, 1981, the 1300th anniversary of
+        establishment of the Bulgarian state.[3]  The Monument to the Unknown Soldier features an
+        eternal flame, turf from Stara Zagora and Shipka Pass, sites of two of the most important
+        battles of the Russo-Turkish War of Liberation (the Battle of Stara Zagora and the Battle
+        of Shipka Pass), a sculpture of a lion (a national symbol of Bulgaria) by the noted sculptor
+        Andrey Nikolov, as well as a stone inscription of a stanza (part of The New Graveyard Above
+        Slivnitsa 1885 poem) by the national writer Ivan Vazov:\\n O BULGARIA, FOR YOU THEY DIED,
+        ONLY ONE WERE YOU WORTHY OF THEM AND THEY OF YOU WORTHY, O MOTHER, WERE!\n
+        Released under CC-BY-SA</string>
+
+    <string name="central_mineral_baths_sofia">Central Mineral Baths</string>
+    <string name="sofia_central_mineral_baths">The Central Mineral Baths (Централна минерална баня,
+        Tsentralna mineralna banya) is a landmark in the centre of Sofia, the capital of Bulgaria,
+        a city known for the mineral springs in the area. It was built in the early 20th century
+        near the former Turkish bath (then destroyed) and was used as the city\'s public baths until
+        1986.  Public baths have existed in Sofia since at least the 16th century. During Hans
+        Dernschwam visit to Sofia in 1553–1555, the Bohemian traveller noted the presence of 1 large
+        bath and 2 smaller baths on either side of the city. Dernschwam described the baths as
+        follows: “ \tThe baths are located on the square; there is a big quadrangular building in
+        front by the entrance, with a round Greek-style dome on top, like the Pantheon in Rome. It
+        is richly covered in white marble … The big water conduits that lead the water into the
+        baths are made of potter\'s clay. Each tube is approximately one Viennese cubit long and the
+        separate tubes go through each other. They are plastered up like I have seen in Siebenbürgen (
+        Transylvania) too, in old buildings in Thorenburg (Turda).[1] \t”  The current Central
+        Mineral Baths building was designed in the Vienna Secession style, but integrating typically
+        Bulgarian, Byzantine and Eastern Orthodox ornamental elements, by the architects Petko
+        Momchilov and Friedrich Grünanger in 1904–1905 and approved on 30 January 1906, as projects
+        by an Austrian (in 1889) and a French architect (in 1901) were declined. The raw construction
+        was finished in 1908 and a Bulgarian company constructed the complex roof and the mineral
+        water conduit. The baths opened on 13 May 1913, but the building was completely finished
+        after 2 more years and a garden was arranged in front of the baths. Artists Haralampi Tachev
+        and St. Dimitrov designed the building\'s ceramic majolica decoration.[2]  The north wing
+        was damaged during the bombing of Sofia in World War II, but was restored several years
+        later. The baths continued to work as public baths until 1986, when the building was closed
+        due to its bad condition and the possible collapse of the roof. It was subsequently
+        partially reconstructed and thoroughly cleaned and accommodates the Sofia Regional
+        Historical Museum since September 2015.\n Released under CC-BY-SA</string>
+
+    <string name="ivan_vazov_theatre_sofia">Ivan Vazov National Theatre</string>
+    <string name="sofia_ivan_vazov_theatre">The Ivan Vazov National Theatre (Bulgarian: Народен
+        театър „Иван Вазов“, Naroden teatar „Ivan Vazov“) is Bulgaria\'s national theatre, as well
+        as the oldest and most authoritative theatre in the country and one of the important
+        landmarks of Sofia, the capital of Bulgaria. It is located in the centre of the city, with
+        the facade facing the City Garden.  Founded in 1904 by the artists from the Salza i Smyah
+        company, it was initially called simply the National Theatre, but before being named after
+        the prominent writer Ivan Vazov it also bore the name of Krastyu Sarafov between 1952 and
+        1962. Incidentally Vazov\'s play, \"The Outcasts\" was the first to be performed at the
+        theatre when it opened. The theatre\'s Neoclassical building, designed by famous Viennese
+        theatre architects Hermann Helmer and Ferdinand Fellner, was finished in 1906 and opened on
+        3 January 1907. The building was extensively damaged by a fire in 1923 during an anniversary
+        celebration, but was reconstructed in 1929 by German architect Martin Dülfer.  A theatrical
+        school was established as part of the National Theatre in 1925. The bombing of Sofia in
+        World War II caused considerable damage to the building, but it was reconstructed in 1945.
+        Another reconstruction followed in 1971–1975, and a €100,000 restoration project was
+        implemented in 2006.[1]  The Ivan Vazov National Theatre has a well-equipped main stage with
+        750 seats, a smaller 120-seat stage and an additional 70-seat one on the fourth floor.
+        The building\'s facade is depicted on the obverse of the Bulgarian 50 levs banknote, issued
+        in 1999 and 2006.[2]  The theatre has been host to productions from notable theatre directors
+        such as Alexander Morfov who has been the Chief director since 1993.\n
+        Released under CC-BY-SA</string>
+
+    <!-- PLOVDIV -->
+    <string name="plovdiv">Plovdiv</string>
+    <string name="roman_theatre_plovdiv">Plovdiv Roman theatre</string>
+    <string name="plovdiv_roman_theatre">The Roman theatre of Plovdiv (Latin: TEATRUM TRIMONTENSE;
+        Bulgarian: Пловдивски античен театър, Plovdivski antichen teatar) is one of the world\'s
+        best-preserved ancient theatres, located in the city center of Plovdiv, Bulgaria. It was
+        constructed in the 90s of the 1st century AD, probably under the rulership of Emperor
+        Domitian. The theatre can host between 5000 and 7000 spectators and it is currently in use.
+        The spectator seats are orientated to the south, towards the ancient city in the lowland
+        and the Rhodope Mountains. In outline, the theatre is a semi-circle with an outer diameter
+        of 82 meters. The theatre itself is divided into the seating section (auditorium) and the
+        stage (orchestra). The auditorium, the area in which people gathered, is hollowed out of a
+        hill or slope, while the outer radian seats required structural support and solid retaining
+        walls. The auditorium was not roofed. The spectator seats (cavea) surround the stage – the
+        orchestra – which has the shape of a horseshoe, 26.64 meters long, includes 28 concentric
+        rows of marble seats, divided into two tiers by an aisle (diazoma). The upper part of the
+        tiers is interrupted by narrow radial stairways, which divide the cavea into wedge-shaped
+        sectors (kerkides). The theatre also has a podium, which supports the columns of the scaenae
+
+        frons.\n Released under CC-BY-SA</string>
+    <string name="old_town_plovdiv">Old Town Plovdiv</string>
+    <string name="plovdiv_old_town">The old town in Plovdiv is an architectural and historical
+        reserve located on three of Plovdiv\'s hills: Nebet Tepe, Dzhambaz Tepe and Taksim Tepe.
+        The complex has been formed as a result of the long sequence of habitation from prehistoric
+        times to present day and combines the culture and architecture from Antiquity, Middle Ages
+        and Bulgarian revival. The old town in Plovdiv is included in UNESCO World Heritage tentative
+        list since 2004. Balabanov house is emblematic for the cultural life in Plovdiv. It hosts
+        numerous events such as theatrical performances, concerts, exhibitions, literature readings.
+        The house was built in the 19th century near St. Constantine and Elena square. The wide
+        entrance door leads to a long, high-ceiling vestibule around which the residential and
+        commercial premises are situated. An inner staircase leads to a large, glazed hall with
+        richly ornamented carved-wood ceiling on the second floor. The hall is surrounded by four
+        rooms decorated with restored antique furniture, fabrics and other items demonstrating the
+        taste of the rich citizens of Plovdiv in the 19th century.\n
+        Released under CC-BY-SA</string>
+
+    <string name="old_school_bazaar_plovdiv">Old Style Bazar</string>
+    <string name="plovdiv_old_school_bazaar">The trapezoid is named after the fifteenth century when
+        two narrow market spaces, pressed from everywhere with shops called \"Un Trap\" and \"Buyuk
+        Trap\", call the neighborhood around. This is a craft workshop in Plovdiv, and in 1652 there
+        were 880 shops. Towards the beginning of the 20th century, Trapani is the commercial heart
+        of the city. There is international trade, which plays a key role in maintaining
+        craftsmanship in the region. [1] Among the most impressive buildings in the neighborhood
+        are Kurshumhan, which houses the Abanje\'s Shanabad House and the large, uninhabited,
+        rectangular one-story 500-square-meter building where merchants pick up their goods. The
+        seminars of the various associations are located around the deserts, and the names of some
+        of the streets (preserved today) show where the shops for all crafts - \"Zhelezarska\",
+        \"Zlatarska\", \"Abadjiiska\", \"Kozhuharska\"  In 1906 a fire broke out in Plovdiv and a
+        large part of the buildings in the Kapana were destroyed. In the 70\'s of the twentieth
+        century, a plan for the construction of a large shopping center was adopted instead of the
+        craft quarters. Detailed plans and designs of individual buildings are being developed,
+        commencement of the expropriation of the properties and preparation for the demolition of
+        the first buildings. [2] The collective tobacco created during this time saved the
+        neighborhood from total destruction by convincing architects and institutions that Trap is
+        an exclusive place that makes sense to preserve. A document by Antoaneta Topalova, a call
+        for the preservation of the neighborhood and its buildings, was published in the \"Fatherland
+        Voice\" newspaper in Plovdiv.\n Released under CC-BY-SA</string>
+
+    <string name="city_from_sky_plovdiv">Plovdiv from sky</string>
+    <string name="plovdiv_city">Plovdiv (Bulgarian: Пловдив, pronounced [ˈpɫovdif]) is the second-
+        largest city in Bulgaria, with a city population of 341,000 as of 2015 and 675,000 in the
+        greater metropolitan area. It is an important economic, transport, cultural, and educational
+        center. There is evidence of habitation in Plovdiv dating back to the 6th millennium BCE,
+        when the first Neolithic settlements were established; it is said to be one of the oldest
+        cities in Europe.[4][5][6]  During most of its recorded history, Plovdiv was known in the
+        West by the name Philippopolis (Greek: Φιλιππούπολις; Turkish: Filibe; \"Philip\'s Town\")
+        after Philip II of Macedon conquered the city in the 4th century BCE. The city was originally
+        a Thracian settlement[6] and subsequently was invaded by Persians, Greeks, Celts, Romans,
+        Goths, Huns, Bulgars, Slavs, Rus people, Crusaders, and Turks. On 4 January 1878, Plovdiv
+        was liberated from Ottoman rule by the Russian army. It remained within the borders of
+        Bulgaria until July of the same year, when it became the capital of the autonomous Ottoman
+        region of Eastern Rumelia. In 1885, Plovdiv and Eastern Rumelia joined Bulgaria.  Plovdiv is
+        situated in a fertile region of south-central Bulgaria on the two banks of the Maritsa River.
+        The city has historically developed on seven syenite hills, some of which are 250 metres
+        (820 feet) high. Because of these hills, Plovdiv is often referred to in Bulgaria as \"The
+        City of the Seven Hills\".  Plovdiv is host to a huge variety of cultural events such as the
+        International Fair Plovdiv, the international theatrical festival \"A stage on a crossroad\",
+        the TV festival \"The golden chest,\" and many more novel festivals, such as Night/Plovdiv in
+        September, Kapana Fest, and Opera Open. There are many preserved ruins such as the ancient
+        Plovdiv Roman theatre, a Roman odeon, a Roman aqueduct, the Plovdiv Roman Stadium, the
+        archaeological complex Eirene, and others.  The oldest American educational institution
+        outside the United States, the American College of Sofia, was founded in Plovdiv in 1860 and
+        later moved to Sofia.  On 5 September 2014, Plovdiv was selected as the Bulgarian host of
+        the European Capital of Culture 2019.[7] This happened with the help of the Municipal
+        Foundation \"Plovdiv 2019″, a non-government organization, which was established in 2011 by
+        Plovdiv\'s City Council whose main objectives were to develop and to prepare Plovdiv\'s bid
+
+        book for European Capital of Culture in 2019.\n Released under CC-BY-SA</string>
+    <string name="grid">grid</string>
+    <string name="varna">Varna</string>
+
+    <!-- Odrysian_Kingdom -->
+    <string name="by_alexikoua_cc_by_sa_3_0">By Alexikoua, CC BY-SA 3.0</string>
+    <string name="odrysian_kingdom_title">Odrysian kingdom\n460 BC – 46 AD</string>
+    <string name="odrysian_kingdom_detail">The Odrysian Kingdom, oʊˈdrɪʒən Ancient Greek:
+        Βασίλειον Ὀδρυσῶν Latin Regnum Odrysium was a state union of over 40 Thracian tribes
+        and 22 kingdoms that existed between the 5th century BC and the 1st century AD.</string>
+
+    <string name="by_klearchos_kapoutsis">Klearchos Kapoutsis, CC BY-SA 3.0</string>
+    <string name="roman_period">Roman period\n46–681 BC</string>
+    <string name="roman_period_detail">Due to the rural nature of the local population, Roman
+        control of the region remained weak. In the 5th century, Attila\'s Huns attacked the
+        territories of today\'s Bulgaria and pillaged many Roman settlements. By the end of the
+        6th century, Avars organized regular incursions into northern Bulgaria, which were a prelude
+        to the en masse arrival of the Slavs.</string>
+
+    <string name="seikoen">SeikoEn, CC BY-SA 3.0</string>
+    <string name="dark_ages">Dark Ages\n6th–7th cent</string>
+    <string name="dark_ages_detail">The Slavs emerged from their original homeland in the early 6th
+        century and spread to most of eastern Central Europe, Eastern Europe and the Balkans, thus
+        forming three main branches - the West Slavs, the East Slavs and the South Slavs. The
+        easternmost South Slavs settled on the territory of modern Bulgaria during the 6th century.
+        Most of the Thracians were eventually Hellenized or Romanized, with the last remnants
+        surviving in remote areas until the 5th century.A portion of the eastern South Slavs
+        assimilated most of them, before the Bulgar élite incorporated these peoples into the
+        First Bulgarian Empire.</string>
+
+    <string name="kandi">Kandi, CC BY-SA 3.0</string>
+    <string name="first_bulgarian_empire">First Bulgarian Empire\n681–1018 BC</string>
+    <string name="first_bulgarian_empire_detail">The First Bulgarian Empire (Old Bulgarian: ц︢рьство
+        бл︢гарское, ts\'rstvo bl\'garskoe) was a medieval Bulgarian state that existed in southeastern
+        Europe between the 7th and 11th centuries AD. It was founded circa 681 when Bulgar tribes
+        led by Asparukh moved to the north-eastern Balkans. There they secured Byzantine recognition
+        of their right to settle south of the Danube by defeating – possibly with the help of local
+        South Slavic tribes – the Byzantine army led by Constantine IV. At the height of its power,
+        Bulgaria spread from the Danube Bend to the Black Sea and from the Dnieper River to the
+        Adriatic Sea.</string>
+
+    <string name="nerdyxsk">NerdyNSK, CC BY-SA 3.0</string>
+    <string name="byzantine_bulgaria">Byzantine Bulgaria\n1018–1185</string>
+    <string name="byzantine_bulgaria_detail">The Theme of Bulgaria was a province of the Byzantine
+        Empire established by Emperor Basil II after the conquest of Bulgaria in 1018. Its capital
+        was Skopje and it was governed by a strategos.  Initially the Byzantine emperor Basil II
+        issued an order that the tax system of the subdued Bulgarian kingdom continue to be applied
+        in the annexed Bulgarian lands. The Bulgarian patriarchate was downgraded to an archbishopric
+        called Archbishopric of Ohrid, that retained an autocephalous status.</string>
+
+    <string name="by_kandi_cc_by_sa_3_0"> By Kandi CC BY-SA 3.0</string>
+    <string name="second_blgarian_empire">econd Bulgarian Empire\n1185–1396</string>
+    <string name="second_blgarian_empire_detail">The Second Bulgarian Empire (Bulgarian: Второ
+        българско царство, Vtorо Bălgarskо Tsarstvo) was a medieval Bulgarian state that existed
+        between 1185 and 1396.[2] A successor to the First Bulgarian Empire, it reached the peak of
+        its power under Tsars Kaloyan and Ivan Asen II before gradually being conquered by the
+        Ottomans in the late 14th and early 15th centuries. It was succeeded by the Principality and
+        later Kingdom of Bulgaria in 1878.</string>
+
+    <string name="ottoman_license" >Public Domain</string>
+    <string name="ottoman_bulgaria">Ottoman Bulgaria\n1396–1878</string>
+    <string name="ottoman_bulgaria_detail">The history of Ottoman Bulgaria spans nearly 500 years,
+        from the conquest by the Ottoman Empire of the smaller kingdoms emerging from the
+        disintegrating Second Bulgarian Empire in the late 14th century, to the Liberation of Bulgaria
+        in 1878. As a result of the Russo-Turkish War (1877–1878), the Principality of Bulgaria,
+        a self-governing Ottoman vassal state that was functionally independent, was created. In
+        1885 the autonomous province of Eastern Rumelia came under the control of the Bulgarian Tsar.
+        Bulgaria declared independence in 1908.</string>
+
+    <string name="ac_ferdinand_license">Public Domain</string>
+    <string name="third_bulgarian_state">Third Bulgarian State\n1878–present</string>
+    <string name="third_bulgarian_state_detail">After the Russo-Turkish War, an autonomous Bulgarian
+        state was created within the Ottoman Empire by the Treaty of Berlin in 1878. Although
+        remaining under Ottoman sovereignty, it functioned independently, taking Alexander of
+        Battenberg as its first prince. In 1885 it took control of the still-Ottoman Eastern
+        Rumelia, officially under a personal union. Following the abdication of Alexander, Ferdinand
+        I was elected prince in 1887. Full independence was declared in 1908.</string>
+    <string name="cities_page">Cities</string>
+    <string name="history_page">History</string>
+
+</resources>

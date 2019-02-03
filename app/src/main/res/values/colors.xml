@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#181818</color>
+    <color name="colorPrimaryDark">#282828</color>
+    <color name="colorAccent">#30ce73</color>
+    <color name="colorText">#dcdcdc</color>
+    <color name="colorTextTransparent">#90dcdcdc</color>
+    <color name="transparentButton">#62232323</color>
+    <color name="transparentLayout">#d8232323</color>
+    <color name="black_overlay">#66000000</color>
+    <color name="separator_overlay">#66b4b4b4</color>
+
+</resources>

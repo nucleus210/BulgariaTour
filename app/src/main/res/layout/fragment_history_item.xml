@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="?attr/actionBarSize"
+    android:background="@color/transparentButton"
+    android:orientation="horizontal">
+
+    <View
+        android:id="@+id/vertical_separator"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="2dp"
+        android:background="@color/separator_overlay"
+        app:layout_constraintBottom_toTopOf="@+id/guideline13"
+        app:layout_constraintEnd_toStartOf="@+id/guideline12"
+        app:layout_constraintStart_toStartOf="@+id/guideline10"
+        app:layout_constraintTop_toTopOf="parent">
+
+    </View>
+
+    <android.support.constraint.Barrier
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="34dp"
+        app:barrierDirection="bottom"
+        app:constraint_referenced_ids="license_content"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <View
+        android:id="@+id/cubic_separator"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@color/separator_overlay"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline12"
+        app:layout_constraintStart_toStartOf="@+id/guideline10"
+        app:layout_constraintTop_toTopOf="@+id/guideline13" />
+
+    <ImageView
+        android:id="@+id/history_image"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginTop="8dp"
+        android:contentDescription="@string/history_photo"
+        android:scaleType="centerInside"
+        android:src="@drawable/bulgaria_pirin"
+        app:layout_constraintBottom_toTopOf="@+id/barrier5"
+        app:layout_constraintEnd_toStartOf="@+id/guideline10"
+        app:layout_constraintStart_toStartOf="@+id/guideline15"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/license_content"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_below="@id/history_image"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginBottom="8dp"
+        android:gravity="end|center_vertical"
+        android:text="@string/by_alexikoua_cc_by_sa_3_0"
+        android:textAlignment="gravity"
+        android:textColor="@color/colorTextTransparent"
+        android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@+id/guideline18"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:ignore="SmallSp" />
+
+
+    <TextView
+        android:id="@+id/content_view"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerVertical="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="8dp"
+        android:layout_marginEnd="@dimen/main_margin"
+        android:layout_marginBottom="@dimen/main_margin_half"
+        android:layout_toEndOf="@id/vertical_separator"
+        android:gravity="end|center_vertical"
+        android:lineSpacingExtra="@dimen/text_line_space"
+        android:text="@string/odrysian_kingdom_detail"
+        android:textAlignment="gravity"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@+id/guideline13"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="@+id/guideline12"
+        app:layout_constraintTop_toTopOf="@+id/guideline18" />
+
+    <TextView
+        android:id="@+id/title_view"
+        android:layout_width="0dp"
+        android:layout_height="55dp"
+        android:layout_marginTop="@dimen/main_margin_half"
+        android:gravity="bottom"
+        android:text="@string/odrysian_kingdom_title"
+        android:textAppearance="?attr/textAppearanceListItem"
+        android:textColor="@color/colorText"
+        android:textSize="12sp"
+        android:typeface="serif"
+        app:layout_constraintBottom_toTopOf="@+id/cubic_separator"
+        app:layout_constraintEnd_toStartOf="@+id/guideline10"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="@+id/guideline15"
+        app:layout_constraintTop_toTopOf="@+id/barrier5"
+        app:layout_constraintVertical_bias="1.0" />
+
+    <View
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginStart="@dimen/main_margin"
+        android:layout_marginEnd="2dp"
+        android:background="@color/separator_overlay"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/guideline10"
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="@+id/guideline13" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.35" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.36" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline13"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintGuide_percent="0.99" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline15"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintGuide_percent="0.04" />
+
+    <android.support.constraint.Guideline
+        android:id="@+id/guideline18"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="49dp"
+        android:layout_marginBottom="498dp"
+        android:orientation="horizontal"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintGuide_percent="0.14"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <android.support.constraint.Barrier
+        android:id="@+id/barrier5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="61dp"
+        app:barrierDirection="top"
+        app:constraint_referenced_ids="title_view"
+        app:layout_constraintBottom_toBottomOf="parent" />
+
+</android.support.constraint.ConstraintLayout>

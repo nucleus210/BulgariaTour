@@ -1,0 +1,20 @@
+Bulgarian Tour
+==============
+
+ABDN project.
+==============
+
+About project:
+
+* MainActivity use Tab Layou to render UI. Here are inflated two fragment. 
+  One is grid view with all Cityes.
+  Other use Recycle List to show short country history;
+
+* When user click on Grig Item inflate another Paces Fragment and display all places for selected city. Data is populated with Recylcle List;
+
+* Places fragment uses cardview to display data. On item click intend new Detail Activity;
+
+* Detail Activity - show details about selected place. Image is stored inside CardView and text inside Scroll View;
+
+* Single Tone Model - store data and shared between activities and fragments.
+
